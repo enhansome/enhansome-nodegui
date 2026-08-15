@@ -14,7 +14,7 @@
             "last_commit": "2023-11-03T01:50:26Z",
             "owner": "nodegui",
             "repo": "react-nodegui",
-            "stars": 6181
+            "stars": 6182
           }
         },
         {
@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T16:03:45Z",
+            "last_commit": "2026-08-14T15:41:14Z",
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48339
+            "stars": 48360
           }
         },
         {
@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:56:15.703Z",
+    "last_updated": "2026-08-15T05:54:05.646Z",
     "original_repository": "nodegui/awesome-nodegui",
     "original_repository_sha": "89ebd95ef975d28b4cfdc1fde1ea78a06da00d7a",
     "enhanced_repository": "enhansome/enhansome-nodegui",
