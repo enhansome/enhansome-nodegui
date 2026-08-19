@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193393505,
             "language": "TypeScript",
             "last_commit": "2023-11-03T01:50:26Z",
             "owner": "nodegui",
@@ -24,49 +25,53 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246747620,
             "language": "TypeScript",
             "last_commit": "2023-01-07T21:23:43Z",
             "owner": "nodegui",
             "repo": "vue-nodegui",
             "stars": 844
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Angular NodeGui",
+              "description": "(Unofficial) - Build performant, native and cross-platform desktop applications with Angular",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215637045,
+                "language": "TypeScript",
+                "last_commit": "2023-03-01T03:41:53Z",
+                "owner": "irustm",
+                "repo": "angular-nodegui",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue NodeGui",
+              "description": "(Unofficial) - NodeGUI but with Vue",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 232426881,
+                "language": "TypeScript",
+                "last_commit": "2022-12-11T18:22:45Z",
+                "owner": "NovusTheory",
+                "repo": "vue-nodegui",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unofficial/Community renderers"
         }
       ],
       "title": "Renderers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Angular NodeGui",
-          "description": "(Unofficial) - Build performant, native and cross-platform desktop applications with Angular",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-01T03:41:53Z",
-            "owner": "irustm",
-            "repo": "angular-nodegui",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue NodeGui",
-          "description": "(Unofficial) - NodeGUI but with Vue",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2022-12-11T18:22:45Z",
-            "owner": "NovusTheory",
-            "repo": "vue-nodegui",
-            "stars": 42
-          }
-        }
-      ],
-      "title": "Unofficial/Community renderers"
     },
     {
       "description": "Made with NodeGui",
@@ -78,11 +83,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338719962,
             "language": "Dart",
             "last_commit": "2026-08-16T09:07:33Z",
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48491
+            "stars": 48494
           }
         },
         {
@@ -92,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243625477,
             "language": "TypeScript",
             "last_commit": "2026-08-07T18:45:06Z",
             "owner": "mysteriumnetwork",
@@ -106,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276499393,
             "language": "TypeScript",
             "last_commit": "2023-01-25T05:42:10Z",
             "owner": "ruslang02",
@@ -120,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 230181431,
             "language": "TypeScript",
             "last_commit": "2023-03-03T11:24:41Z",
             "owner": "elviosak",
@@ -128,64 +137,62 @@
           }
         },
         {
-          "node_type": "item",
-          "title": "Meme legend",
-          "description": "Meme legend lets you type emojis, gifs or stickers quickly. Works on Mac, Windows and Linux.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "List of apps or packages using NodeGui",
+              "description": "List from Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186662363,
+                "language": "C++",
+                "last_commit": "2026-05-03T17:50:16Z",
+                "owner": "nodegui",
+                "repo": "nodegui",
+                "stars": 9226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Official Examples repo",
+              "description": "Sample apps illustrating usage of NodeGui APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202908309,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T15:57:51Z",
+                "owner": "nodegui",
+                "repo": "examples",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Markdown editor in NodeGui",
+              "description": "A Markdown editor in NodeGui under 200 lines of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236439288,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T14:09:30Z",
+                "owner": "a7ul",
+                "repo": "mdview-nodegui",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samples and Experiments"
         }
       ],
       "title": "Apps"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "List of apps or packages using NodeGui",
-          "description": "List from Github",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-03T17:50:16Z",
-            "owner": "nodegui",
-            "repo": "nodegui",
-            "stars": 9226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Official Examples repo",
-          "description": "Sample apps illustrating usage of NodeGui APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-07T15:57:51Z",
-            "owner": "nodegui",
-            "repo": "examples",
-            "stars": 193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Markdown editor in NodeGui",
-          "description": "A Markdown editor in NodeGui under 200 lines of code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-07T14:09:30Z",
-            "owner": "a7ul",
-            "repo": "mdview-nodegui",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Samples and Experiments"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -194,6 +201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199706073,
             "language": "JavaScript",
             "last_commit": "2023-03-15T09:42:08Z",
             "owner": "nodegui",
@@ -208,6 +216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199719100,
             "language": "TypeScript",
             "last_commit": "2024-02-17T09:26:29Z",
             "owner": "nodegui",
@@ -222,6 +231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261678149,
             "language": "TypeScript",
             "last_commit": "2020-05-06T19:02:22Z",
             "owner": "rahul-vashishtha",
@@ -236,6 +246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236846037,
             "language": "JavaScript",
             "last_commit": "2024-11-18T23:02:40Z",
             "owner": "constgen",
@@ -256,6 +267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205027016,
             "language": "TypeScript",
             "last_commit": "2023-08-05T14:36:52Z",
             "owner": "nodegui",
@@ -270,6 +282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239006476,
             "language": "TypeScript",
             "last_commit": "2023-01-07T04:31:52Z",
             "owner": "Solant",
@@ -284,6 +297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248531951,
             "language": "TypeScript",
             "last_commit": "2023-01-05T16:39:20Z",
             "owner": "fnky",
@@ -298,6 +312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261657936,
             "language": "TypeScript",
             "last_commit": "2023-05-13T07:50:49Z",
             "owner": "rahul-vashishtha",
@@ -318,6 +333,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223635882,
             "language": "C++",
             "last_commit": "2022-12-10T09:57:07Z",
             "owner": "nodegui",
@@ -332,6 +348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220709784,
             "language": "C++",
             "last_commit": "2023-01-06T02:16:15Z",
             "owner": "nodegui",
@@ -346,6 +363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219225230,
             "language": "Objective-C++",
             "last_commit": "2022-12-10T07:39:19Z",
             "owner": "nodegui",
@@ -360,6 +378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217627399,
             "language": "C++",
             "last_commit": "2022-12-10T06:50:00Z",
             "owner": "nodegui",
@@ -374,6 +393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208351365,
             "language": "C++",
             "last_commit": "2022-12-10T03:18:36Z",
             "owner": "nodegui",
@@ -388,6 +408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230832533,
             "language": "JavaScript",
             "last_commit": "2019-12-30T03:10:04Z",
             "owner": "nodegui",
@@ -397,16 +418,12 @@
         }
       ],
       "title": "Plugins"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:58:58.646Z",
+    "last_updated": "2026-08-19T12:42:26.761Z",
     "original_repository": "nodegui/awesome-nodegui",
+    "original_repository_id": 247474252,
     "original_repository_sha": "89ebd95ef975d28b4cfdc1fde1ea78a06da00d7a",
     "enhanced_repository": "enhansome/enhansome-nodegui",
     "enhanced_repository_description": null,
