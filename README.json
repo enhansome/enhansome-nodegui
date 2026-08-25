@@ -88,7 +88,7 @@
             "last_commit": "2026-08-21T13:50:16Z",
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48643
+            "stars": 48661
           }
         },
         {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-05-03T17:50:16Z",
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9227
+                "stars": 9226
               }
             },
             {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:39.078Z",
+    "last_updated": "2026-08-25T06:25:42.986Z",
     "original_repository": "nodegui/awesome-nodegui",
     "original_repository_id": 247474252,
     "original_repository_sha": "89ebd95ef975d28b4cfdc1fde1ea78a06da00d7a",
