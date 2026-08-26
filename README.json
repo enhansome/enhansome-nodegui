@@ -15,7 +15,7 @@
             "last_commit": "2023-11-03T01:50:26Z",
             "owner": "nodegui",
             "repo": "react-nodegui",
-            "stars": 6180
+            "stars": 6181
           }
         },
         {
@@ -88,7 +88,7 @@
             "last_commit": "2026-08-21T13:50:16Z",
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48666
+            "stars": 48692
           }
         },
         {
@@ -100,7 +100,7 @@
             "archived": false,
             "id": 243625477,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T18:45:06Z",
+            "last_commit": "2026-08-25T12:10:58Z",
             "owner": "mysteriumnetwork",
             "repo": "mysterium-vpn-desktop",
             "stars": 226
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:07:21.803Z",
+    "last_updated": "2026-08-26T06:02:37.470Z",
     "original_repository": "nodegui/awesome-nodegui",
     "original_repository_id": 247474252,
     "original_repository_sha": "89ebd95ef975d28b4cfdc1fde1ea78a06da00d7a",
