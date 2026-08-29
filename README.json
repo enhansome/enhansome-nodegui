@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀",
+            "homepage": "https://react.nodegui.org",
             "id": 193393505,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-03T01:50:26Z",
+            "open_issues": 53,
             "owner": "nodegui",
             "repo": "react-nodegui",
-            "stars": 6181
+            "stars": 6182,
+            "topics": [
+              "css",
+              "desktop",
+              "gui",
+              "native",
+              "nodejs",
+              "openlibrary",
+              "qt",
+              "react",
+              "react-desktop"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -26,12 +41,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build performant, native and cross-platform desktop applications with native Vue + powerful CSS like styling.🚀",
+            "homepage": "https://vue.nodegui.org",
             "id": 246747620,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T21:23:43Z",
+            "open_issues": 56,
             "owner": "nodegui",
             "repo": "vue-nodegui",
-            "stars": 844
+            "stars": 844,
+            "topics": [
+              "css",
+              "desktop",
+              "gui",
+              "hacktoberfest",
+              "javascript",
+              "native",
+              "nodejs",
+              "openlibrary",
+              "qt",
+              "typescript",
+              "vue",
+              "vue-desktop",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -44,12 +78,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build performant, native and cross-platform desktop applications with Angular",
+                "homepage": null,
                 "id": 215637045,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T03:41:53Z",
+                "open_issues": 23,
                 "owner": "irustm",
                 "repo": "angular-nodegui",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:27.275Z"
             },
@@ -60,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "NodeGUI but with Vue",
+                "homepage": null,
                 "id": 232426881,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-11T18:22:45Z",
+                "open_issues": 19,
                 "owner": "NovusTheory",
                 "repo": "vue-nodegui",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:27.275Z"
             }
@@ -87,12 +131,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+            "homepage": "https://spotube.cc/",
             "id": 338719962,
             "language": "Dart",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:28:29Z",
+            "open_issues": 849,
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48763
+            "stars": 48773,
+            "topics": [
+              "android",
+              "android-client",
+              "android-music-player",
+              "desktop-client",
+              "fdroid",
+              "flutter",
+              "flutter-desktop",
+              "linux",
+              "macos",
+              "music",
+              "music-player",
+              "windows",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -103,12 +166,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mysterium VPN Desktop Client",
+            "homepage": "https://mysterium.network/apps",
             "id": 243625477,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:10:58Z",
+            "open_issues": 30,
             "owner": "mysteriumnetwork",
             "repo": "mysterium-vpn-desktop",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "dvpn",
+              "linux",
+              "macos",
+              "mysterium-vpn-desktop",
+              "vpn",
+              "vpn-client",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -119,12 +195,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discord client powered by Node.JS and Qt Widgets.",
+            "homepage": null,
             "id": 276499393,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-25T05:42:10Z",
+            "open_issues": 40,
             "owner": "ruslang02",
             "repo": "discord-qt",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "discord",
+              "discord-desktop",
+              "discord-qt",
+              "discordjs",
+              "javascript",
+              "nodegui",
+              "overlay",
+              "qt",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -135,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "emoji picker",
+            "homepage": null,
             "id": 230181431,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-03-03T11:24:41Z",
+            "open_issues": 9,
             "owner": "elviosak",
             "repo": "emoji-picker",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -153,12 +249,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org",
+                "homepage": "http://docs.nodegui.org",
                 "id": 186662363,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-03T17:50:16Z",
+                "open_issues": 98,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9226
+                "stars": 9226,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "gui",
+                  "javascript",
+                  "nodejs",
+                  "openlibrary",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T17:40:27.275Z"
             },
@@ -169,12 +278,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo containing example apps made with NodeGui and React NodeGui",
+                "homepage": null,
                 "id": 202908309,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-07T15:57:51Z",
+                "open_issues": 86,
                 "owner": "nodegui",
                 "repo": "examples",
-                "stars": 192
+                "stars": 192,
+                "topics": [
+                  "examples",
+                  "nodegui",
+                  "nodejs",
+                  "qt",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T17:40:27.275Z"
             },
@@ -185,12 +305,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Markdown editor in NodeGui",
+                "homepage": null,
                 "id": 236439288,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-07T14:09:30Z",
+                "open_issues": 11,
                 "owner": "a7ul",
                 "repo": "mdview-nodegui",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "javascript",
+                  "nodegui",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T17:40:27.275Z"
             }
@@ -212,12 +341,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter repository for react based native desktop apps using react-nodegui",
+            "homepage": null,
             "id": 199706073,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-15T09:42:08Z",
+            "open_issues": 15,
             "owner": "nodegui",
             "repo": "react-nodegui-starter",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "desktop",
+              "gui",
+              "native",
+              "nodejs",
+              "qt",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -228,12 +369,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starter repo for NodeGui projects",
+            "homepage": null,
             "id": 199719100,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-02-17T09:26:29Z",
+            "open_issues": 13,
             "owner": "nodegui",
             "repo": "nodegui-starter",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "cross-platform",
+              "desktop",
+              "gui",
+              "nodejs",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -244,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This boilerplate aims to provide a basic structure and format to build large complex application using NodeGUI.",
+            "homepage": null,
             "id": 261678149,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-05-06T19:02:22Z",
+            "open_issues": 0,
             "owner": "rahul-vashishtha",
             "repo": "nodegui-mvc-starter",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -260,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neutrino preset for React NodeGui apps development",
+            "homepage": null,
             "id": 236846037,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-18T23:02:40Z",
+            "open_issues": 2,
             "owner": "constgen",
             "repo": "neutrino-preset-react-nodegui",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         }
@@ -282,12 +444,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package and deploy apps built with NodeGui to all platforms",
+            "homepage": null,
             "id": 205027016,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-08-05T14:36:52Z",
+            "open_issues": 28,
             "owner": "nodegui",
             "repo": "packer",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "cross-platform",
+              "nodegui",
+              "nodejs",
+              "packer",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -298,12 +471,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "react-native stylesheets implementation for nodegui and react-nodegui",
+            "homepage": null,
             "id": 239006476,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T04:31:52Z",
+            "open_issues": 7,
             "owner": "Solant",
             "repo": "nodegui-stylesheet",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "css",
+              "no",
+              "nodegui",
+              "react-nodegui",
+              "stylesheet",
+              "stylesheets"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -314,12 +499,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple React NodeGui testing utilities that encourage good testing practices.",
+            "homepage": "https://fnky.github.io/react-nodegui-testing-library",
             "id": 248531951,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T16:39:20Z",
+            "open_issues": 16,
             "owner": "fnky",
             "repo": "react-nodegui-testing-library",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "javascript",
+              "nodegui",
+              "react-nodegui",
+              "testing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -330,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debian package builder for nodegui",
+            "homepage": null,
             "id": 261657936,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-05-13T07:50:49Z",
+            "open_issues": 0,
             "owner": "rahul-vashishtha",
             "repo": "nodegui-deb-builder",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         }
@@ -352,12 +553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WIP] A NodeGui plugin that adds webview support",
+            "homepage": null,
             "id": 223635882,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-12-10T09:57:07Z",
+            "open_issues": 15,
             "owner": "nodegui",
             "repo": "nodegui-plugin-webview",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -368,12 +574,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A NodeGui plugin that adds native animation capabilities to NodeGui widgets and objects. Based on QAnimation",
+            "homepage": null,
             "id": 220709784,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-01-06T02:16:15Z",
+            "open_issues": 32,
             "owner": "nodegui",
             "repo": "nodegui-plugin-animation",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "nodegui",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -384,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Plugin for NodeGUI to hide macOS title bar and leave only traffic lights.",
+            "homepage": null,
             "id": 219225230,
             "language": "Objective-C++",
+            "license": null,
             "last_commit": "2022-12-10T07:39:19Z",
+            "open_issues": 20,
             "owner": "nodegui",
             "repo": "nodegui-plugin-title-bar",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -400,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A helper module for NodeGui which contains OS specific native features.",
+            "homepage": null,
             "id": 217627399,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-12-10T06:50:00Z",
+            "open_issues": 20,
             "owner": "nodegui",
             "repo": "os-utils",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -416,12 +640,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an example native plugin",
+            "homepage": null,
             "id": 208351365,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-12-10T03:18:36Z",
+            "open_issues": 17,
             "owner": "nodegui",
             "repo": "nodegui-plugin-example",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "javascript",
+              "nodegui",
+              "qt5"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         },
@@ -432,12 +665,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React NodeGui's devtools support module.",
+            "homepage": null,
             "id": 230832533,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-12-30T03:10:04Z",
+            "open_issues": 0,
             "owner": "nodegui",
             "repo": "devtools",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "devtools",
+              "native",
+              "nodegui",
+              "nodejs",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T17:40:27.275Z"
         }
@@ -446,15 +690,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:40:27.275Z",
+    "last_updated": "2026-08-29T04:58:55.206Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Useful resources for creating apps with NodeGui ",
+      "homepage": null,
       "id": 247474252,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-06-19T09:32:18Z",
+      "open_issues": 3,
       "owner": "nodegui",
       "repo": "awesome-nodegui",
-      "stars": 94
+      "stars": 94,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "nodegui",
+        "react-nodegui"
+      ]
     },
     "original_repository_sha": "89ebd95ef975d28b4cfdc1fde1ea78a06da00d7a",
     "enhanced_repository": "enhansome/enhansome-nodegui",
