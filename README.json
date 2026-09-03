@@ -140,7 +140,7 @@
             "open_issues": 855,
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48859,
+            "stars": 48869,
             "topics": [
               "android",
               "android-client",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:51:55.999Z",
+    "last_updated": "2026-09-03T10:02:45.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
