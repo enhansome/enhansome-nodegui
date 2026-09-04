@@ -31,8 +31,8 @@
 
 Made with NodeGui
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 48,869 | 🐛 855 | 🌐 Dart | 📅 2026-08-28 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
-* [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 226 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-25 - Decentralised VPN built on blockchain.
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 48,903 | 🐛 856 | 🌐 Dart | 📅 2026-09-04 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
+* [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 226 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-03 - Decentralised VPN built on blockchain.
 * [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 211 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
 * [Emoji picker](https://github.com/slidinghotdog/emoji-picker) ⚠️ Archived - Just click to copy your Emoji
 * [Meme legend](https://github.com/master-atul/meme-legend) - Meme legend lets you type emojis, gifs or stickers quickly. Works on Mac, Windows and Linux.
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
