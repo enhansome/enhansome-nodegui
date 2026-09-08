@@ -20,7 +20,7 @@
 ## Renderers
 
 * [React NodeGui](https://github.com/nodegui/react-nodegui) ⭐ 6,182 | 🐛 53 | 🌐 TypeScript | 📅 2023-11-03 - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
-* [Vue NodeGui](https://github.com/nodegui/vue-nodegui) ⭐ 844 | 🐛 56 | 🌐 TypeScript | 📅 2023-01-07 - Vue renderer for NodeGui.
+* [Vue NodeGui](https://github.com/nodegui/vue-nodegui) ⭐ 841 | 🐛 56 | 🌐 TypeScript | 📅 2023-01-07 - Vue renderer for NodeGui.
 
 #### Unofficial/Community renderers
 
@@ -31,7 +31,7 @@
 
 Made with NodeGui
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 48,978 | 🐛 856 | 🌐 Dart | 📅 2026-09-05 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 49,006 | 🐛 856 | 🌐 Dart | 📅 2026-09-05 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
 * [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 226 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-03 - Decentralised VPN built on blockchain.
 * [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 211 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
 * [Emoji picker](https://github.com/slidinghotdog/emoji-picker) ⚠️ Archived - Just click to copy your Emoji
@@ -39,13 +39,13 @@ Made with NodeGui
 
 ### Samples and Experiments
 
-* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,228 | 🐛 98 | 🌐 C++ | 📅 2026-05-03 - List from Github
+* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,227 | 🐛 98 | 🌐 C++ | 📅 2026-05-03 - List from Github
 * [Official Examples repo](https://github.com/nodegui/examples) ⭐ 192 | 🐛 86 | 🌐 TypeScript | 📅 2023-01-07 - Sample apps illustrating usage of NodeGui APIs.
 * [Markdown editor in NodeGui](https://github.com/master-atul/mdview-nodegui) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-07 - A Markdown editor in NodeGui under 200 lines of code.
 
 ## Boilerplates
 
-* [React NodeGui starter](https://github.com/nodegui/react-nodegui-starter) ⭐ 175 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-15 - Starter repository for react based native desktop apps using react-nodegui
+* [React NodeGui starter](https://github.com/nodegui/react-nodegui-starter) ⭐ 174 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-15 - Starter repository for react based native desktop apps using react-nodegui
 * [NodeGui starter](https://github.com/nodegui/nodegui-starter) ⭐ 121 | 🐛 13 | 🌐 TypeScript | 📅 2024-02-17 - A starter repo for NodeGui projects
 * [NodeGUI MVC Starter](https://github.com/RinneganTech/nodegui-mvc-starter) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2020-05-06 - Starter repo to provide a basic structure and format to build large complex application using NodeGUI.
 * [React NodeGui Neutrino preset](https://github.com/constgen/neutrino-preset-react-nodegui) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2024-11-18 - [Neutrino preset](https://neutrinojs.org/presets/) for React NodeGui.
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
