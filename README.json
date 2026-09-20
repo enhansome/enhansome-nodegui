@@ -137,10 +137,10 @@
             "language": "Dart",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T04:09:08Z",
-            "open_issues": 863,
+            "open_issues": 864,
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 49266,
+            "stars": 49295,
             "topics": [
               "android",
               "android-client",
@@ -255,7 +255,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-03T17:50:16Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "nodegui",
                 "repo": "nodegui",
                 "stars": 9231,
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:41:42.679Z",
+    "last_updated": "2026-09-20T10:02:56.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
