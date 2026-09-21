@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nodegui",
             "repo": "react-nodegui",
-            "stars": 6180,
+            "stars": 6179,
             "topics": [
               "css",
               "desktop",
@@ -137,10 +137,10 @@
             "language": "Dart",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T04:09:08Z",
-            "open_issues": 864,
+            "open_issues": 865,
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 49295,
+            "stars": 49314,
             "topics": [
               "android",
               "android-client",
@@ -350,7 +350,7 @@
             "open_issues": 15,
             "owner": "nodegui",
             "repo": "react-nodegui-starter",
-            "stars": 174,
+            "stars": 173,
             "topics": [
               "desktop",
               "gui",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T10:02:56.138Z",
+    "last_updated": "2026-09-21T11:02:02.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
