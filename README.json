@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "nodegui",
             "repo": "react-nodegui",
-            "stars": 6179,
+            "stars": 6178,
             "topics": [
               "css",
               "desktop",
@@ -140,7 +140,7 @@
             "open_issues": 866,
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 49357,
+            "stars": 49389,
             "topics": [
               "android",
               "android-client",
@@ -175,7 +175,7 @@
             "open_issues": 31,
             "owner": "mysteriumnetwork",
             "repo": "mysterium-vpn-desktop",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "dvpn",
               "linux",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:14:50.345Z",
+    "last_updated": "2026-09-24T10:27:13.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
