@@ -137,10 +137,10 @@
             "language": "Dart",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T03:58:10Z",
-            "open_issues": 865,
+            "open_issues": 864,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 49506,
+            "stars": 49536,
             "topics": [
               "android",
               "android-client",
@@ -171,7 +171,7 @@
             "id": 243625477,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T18:17:57Z",
+            "last_commit": "2026-10-01T03:29:56Z",
             "open_issues": 31,
             "owner": "mysteriumnetwork",
             "repo": "mysterium-vpn-desktop",
@@ -258,7 +258,7 @@
                 "open_issues": 100,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9231,
+                "stars": 9232,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:19:32.614Z",
+    "last_updated": "2026-10-01T11:46:25.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
