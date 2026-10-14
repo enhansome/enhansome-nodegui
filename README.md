@@ -19,7 +19,7 @@
 
 ## Renderers
 
-* [React NodeGui](https://github.com/nodegui/react-nodegui) ⭐ 6,175 | 🐛 54 | 🌐 TypeScript | 📅 2023-11-03 - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
+* [React NodeGui](https://github.com/nodegui/react-nodegui) ⭐ 6,176 | 🐛 54 | 🌐 TypeScript | 📅 2023-11-03 - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 * [Vue NodeGui](https://github.com/nodegui/vue-nodegui) ⭐ 840 | 🐛 56 | 🌐 TypeScript | 📅 2023-01-07 - Vue renderer for NodeGui.
 
 #### Unofficial/Community renderers
@@ -31,15 +31,15 @@
 
 Made with NodeGui
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 49,853 | 🐛 868 | 🌐 Dart | 📅 2026-10-13 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
-* [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 227 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-03 - Decentralised VPN built on blockchain.
-* [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 211 | 🐛 40 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 49,903 | 🐛 868 | 🌐 Dart | 📅 2026-10-14 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
+* [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 227 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-14 - Decentralised VPN built on blockchain.
+* [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 211 | 🐛 39 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
 * [Emoji picker](https://github.com/slidinghotdog/emoji-picker) ⚠️ Archived - Just click to copy your Emoji
 * [Meme legend](https://github.com/master-atul/meme-legend) - Meme legend lets you type emojis, gifs or stickers quickly. Works on Mac, Windows and Linux.
 
 ### Samples and Experiments
 
-* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,231 | 🐛 101 | 🌐 C++ | 📅 2026-05-03 - List from Github
+* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,230 | 🐛 101 | 🌐 C++ | 📅 2026-05-03 - List from Github
 * [Official Examples repo](https://github.com/nodegui/examples) ⭐ 192 | 🐛 86 | 🌐 TypeScript | 📅 2023-01-07 - Sample apps illustrating usage of NodeGui APIs.
 * [Markdown editor in NodeGui](https://github.com/master-atul/mdview-nodegui) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-07 - A Markdown editor in NodeGui under 200 lines of code.
 
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
