@@ -136,11 +136,11 @@
             "id": 338719962,
             "language": "Dart",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T09:37:21Z",
+            "last_commit": "2026-10-16T15:34:58Z",
             "open_issues": 869,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 49986,
+            "stars": 50011,
             "topics": [
               "android",
               "android-client",
@@ -204,7 +204,7 @@
             "open_issues": 39,
             "owner": "ruslang02",
             "repo": "discord-qt",
-            "stars": 211,
+            "stars": 210,
             "topics": [
               "discord",
               "discord-desktop",
@@ -258,7 +258,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9231,
+                "stars": 9232,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:03:46.400Z",
+    "last_updated": "2026-10-17T09:37:23.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
