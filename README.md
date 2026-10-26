@@ -20,7 +20,7 @@
 ## Renderers
 
 * [React NodeGui](https://github.com/nodegui/react-nodegui) ⭐ 6,178 | 🐛 54 | 🌐 TypeScript | 📅 2023-11-03 - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
-* [Vue NodeGui](https://github.com/nodegui/vue-nodegui) ⭐ 839 | 🐛 56 | 🌐 TypeScript | 📅 2023-01-07 - Vue renderer for NodeGui.
+* [Vue NodeGui](https://github.com/nodegui/vue-nodegui) ⭐ 840 | 🐛 56 | 🌐 TypeScript | 📅 2023-01-07 - Vue renderer for NodeGui.
 
 #### Unofficial/Community renderers
 
@@ -31,7 +31,7 @@
 
 Made with NodeGui
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,295 | 🐛 876 | 🌐 Dart | 📅 2026-10-23 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,347 | 🐛 876 | 🌐 Kotlin | 📅 2026-10-26 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
 * [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 228 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-25 - Decentralised VPN built on blockchain.
 * [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 210 | 🐛 39 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
 * [Emoji picker](https://github.com/slidinghotdog/emoji-picker) ⚠️ Archived - Just click to copy your Emoji
@@ -39,7 +39,7 @@ Made with NodeGui
 
 ### Samples and Experiments
 
-* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,234 | 🐛 101 | 🌐 C++ | 📅 2026-05-03 - List from Github
+* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,235 | 🐛 101 | 🌐 C++ | 📅 2026-05-03 - List from Github
 * [Official Examples repo](https://github.com/nodegui/examples) ⭐ 192 | 🐛 86 | 🌐 TypeScript | 📅 2023-01-07 - Sample apps illustrating usage of NodeGui APIs.
 * [Markdown editor in NodeGui](https://github.com/master-atul/mdview-nodegui) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-07 - A Markdown editor in NodeGui under 200 lines of code.
 
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
