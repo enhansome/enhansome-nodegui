@@ -136,11 +136,11 @@
             "id": 338719962,
             "language": "Kotlin",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T10:36:55Z",
-            "open_issues": 861,
+            "last_commit": "2026-10-31T10:26:46Z",
+            "open_issues": 417,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 50480,
+            "stars": 50508,
             "topics": [
               "android",
               "android-client",
@@ -171,8 +171,8 @@
             "id": 243625477,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T10:03:15Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-31T10:40:25Z",
+            "open_issues": 30,
             "owner": "mysteriumnetwork",
             "repo": "mysterium-vpn-desktop",
             "stars": 228,
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:33:38.148Z",
+    "last_updated": "2026-10-31T11:09:04.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
