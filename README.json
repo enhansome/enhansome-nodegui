@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "nodegui",
             "repo": "react-nodegui",
-            "stars": 6177,
+            "stars": 6178,
             "topics": [
               "css",
               "desktop",
@@ -136,11 +136,11 @@
             "id": 338719962,
             "language": "Kotlin",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T12:22:00Z",
+            "last_commit": "2026-11-03T14:24:03Z",
             "open_issues": 418,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 50565,
+            "stars": 50578,
             "topics": [
               "android",
               "android-client",
@@ -175,7 +175,7 @@
             "open_issues": 30,
             "owner": "mysteriumnetwork",
             "repo": "mysterium-vpn-desktop",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "dvpn",
               "linux",
@@ -204,7 +204,7 @@
             "open_issues": 39,
             "owner": "ruslang02",
             "repo": "discord-qt",
-            "stars": 210,
+            "stars": 209,
             "topics": [
               "discord",
               "discord-desktop",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:57:51.704Z",
+    "last_updated": "2026-11-04T13:13:30.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
