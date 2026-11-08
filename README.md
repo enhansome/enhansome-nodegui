@@ -31,7 +31,7 @@
 
 Made with NodeGui
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,638 | 🐛 403 | 🌐 Kotlin | 📅 2026-11-07 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,666 | 🐛 403 | 🌐 Kotlin | 📅 2026-11-07 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
 * [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 229 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-31 - Decentralised VPN built on blockchain.
 * [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 208 | 🐛 39 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
 * [Emoji picker](https://github.com/slidinghotdog/emoji-picker) ⚠️ Archived - Just click to copy your Emoji
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
