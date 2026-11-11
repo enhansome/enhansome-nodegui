@@ -137,10 +137,10 @@
             "language": "Kotlin",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-10T08:05:32Z",
-            "open_issues": 399,
+            "open_issues": 406,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 50708,
+            "stars": 50719,
             "topics": [
               "android",
               "android-client",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:43:07.678Z",
+    "last_updated": "2026-11-11T12:54:46.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
