@@ -31,8 +31,8 @@
 
 Made with NodeGui
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,752 | 🐛 412 | 🌐 Kotlin | 📅 2026-11-12 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
-* [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 230 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-31 - Decentralised VPN built on blockchain.
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,762 | 🐛 413 | 🌐 Kotlin | 📅 2026-11-12 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
+* [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 231 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-31 - Decentralised VPN built on blockchain.
 * [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 208 | 🐛 39 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
 * [Emoji picker](https://github.com/slidinghotdog/emoji-picker) ⚠️ Archived - Just click to copy your Emoji
 * [Meme legend](https://github.com/master-atul/meme-legend) - Meme legend lets you type emojis, gifs or stickers quickly. Works on Mac, Windows and Linux.
@@ -54,7 +54,7 @@ Made with NodeGui
 
 Tools for NodeGui
 
-* [NodeGui Packer](https://github.com/nodegui/packer) ⭐ 209 | 🐛 28 | 🌐 TypeScript | 📅 2023-08-05 - Create installers and distributables for NodeGui apps.
+* [NodeGui Packer](https://github.com/nodegui/packer) ⭐ 210 | 🐛 28 | 🌐 TypeScript | 📅 2023-08-05 - Create installers and distributables for NodeGui apps.
 * [React Native like stylesheet for React NodeGui](https://github.com/Solant/nodegui-stylesheet) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2023-01-07 by [@Solant](https://github.com/Solant) - <https://github.com/Solant/nodegui-stylesheet> ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2023-01-07
 * [React NodeGui Testing library](https://github.com/fnky/react-nodegui-testing-library) ⭐ 10 | 🐛 16 | 🌐 TypeScript | 📅 2023-01-05 - Simple React NodeGui testing utilities that encourage good testing practices 🦋 - by [@fnky](https://github.com/fnky)
 * [NodeGUI Debian Builder](https://github.com/RinneganTech/nodegui-deb-builder) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2023-05-13 - Create .deb package distributable for NodeGUI Apps.
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
