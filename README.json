@@ -50,7 +50,7 @@
             "open_issues": 56,
             "owner": "nodegui",
             "repo": "vue-nodegui",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "css",
               "desktop",
@@ -140,7 +140,7 @@
             "open_issues": 417,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 50781,
+            "stars": 50804,
             "topics": [
               "android",
               "android-client",
@@ -258,7 +258,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9236,
+                "stars": 9235,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:55:24.502Z",
+    "last_updated": "2026-11-16T13:56:19.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
