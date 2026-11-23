@@ -19,8 +19,8 @@
 
 ## Renderers
 
-* [React NodeGui](https://github.com/nodegui/react-nodegui) ⭐ 6,177 | 🐛 54 | 🌐 TypeScript | 📅 2023-11-03 - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
-* [Vue NodeGui](https://github.com/nodegui/vue-nodegui) ⭐ 838 | 🐛 56 | 🌐 TypeScript | 📅 2023-01-07 - Vue renderer for NodeGui.
+* [React NodeGui](https://github.com/nodegui/react-nodegui) ⭐ 6,176 | 🐛 54 | 🌐 TypeScript | 📅 2023-11-03 - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
+* [Vue NodeGui](https://github.com/nodegui/vue-nodegui) ⭐ 837 | 🐛 56 | 🌐 TypeScript | 📅 2023-01-07 - Vue renderer for NodeGui.
 
 #### Unofficial/Community renderers
 
@@ -31,7 +31,7 @@
 
 Made with NodeGui
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,884 | 🐛 424 | 🌐 Kotlin | 📅 2026-11-21 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 50,897 | 🐛 426 | 🌐 Kotlin | 📅 2026-11-21 - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
 * [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) ⭐ 230 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-31 - Decentralised VPN built on blockchain.
 * [Discord client](https://github.com/ruslang02/discord-qt) ⭐ 208 | 🐛 39 | 🌐 TypeScript | 📅 2023-01-25 - A Discord desktop client powered by Node.JS and NodeGui.
 * [Emoji picker](https://github.com/slidinghotdog/emoji-picker) ⚠️ Archived - Just click to copy your Emoji
@@ -39,13 +39,13 @@ Made with NodeGui
 
 ### Samples and Experiments
 
-* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,233 | 🐛 101 | 🌐 C++ | 📅 2026-05-03 - List from Github
+* [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) ⭐ 9,235 | 🐛 101 | 🌐 C++ | 📅 2026-05-03 - List from Github
 * [Official Examples repo](https://github.com/nodegui/examples) ⭐ 192 | 🐛 86 | 🌐 TypeScript | 📅 2023-01-07 - Sample apps illustrating usage of NodeGui APIs.
 * [Markdown editor in NodeGui](https://github.com/master-atul/mdview-nodegui) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-07 - A Markdown editor in NodeGui under 200 lines of code.
 
 ## Boilerplates
 
-* [React NodeGui starter](https://github.com/nodegui/react-nodegui-starter) ⭐ 173 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-15 - Starter repository for react based native desktop apps using react-nodegui
+* [React NodeGui starter](https://github.com/nodegui/react-nodegui-starter) ⭐ 172 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-15 - Starter repository for react based native desktop apps using react-nodegui
 * [NodeGui starter](https://github.com/nodegui/nodegui-starter) ⭐ 121 | 🐛 13 | 🌐 TypeScript | 📅 2024-02-17 - A starter repo for NodeGui projects
 * [NodeGUI MVC Starter](https://github.com/RinneganTech/nodegui-mvc-starter) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2020-05-06 - Starter repo to provide a basic structure and format to build large complex application using NodeGUI.
 * [React NodeGui Neutrino preset](https://github.com/constgen/neutrino-preset-react-nodegui) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2024-11-18 - [Neutrino preset](https://neutrinojs.org/presets/) for React NodeGui.
@@ -54,7 +54,7 @@ Made with NodeGui
 
 Tools for NodeGui
 
-* [NodeGui Packer](https://github.com/nodegui/packer) ⭐ 210 | 🐛 28 | 🌐 TypeScript | 📅 2023-08-05 - Create installers and distributables for NodeGui apps.
+* [NodeGui Packer](https://github.com/nodegui/packer) ⭐ 209 | 🐛 28 | 🌐 TypeScript | 📅 2023-08-05 - Create installers and distributables for NodeGui apps.
 * [React Native like stylesheet for React NodeGui](https://github.com/Solant/nodegui-stylesheet) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2023-01-07 by [@Solant](https://github.com/Solant) - <https://github.com/Solant/nodegui-stylesheet> ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2023-01-07
 * [React NodeGui Testing library](https://github.com/fnky/react-nodegui-testing-library) ⭐ 10 | 🐛 16 | 🌐 TypeScript | 📅 2023-01-05 - Simple React NodeGui testing utilities that encourage good testing practices 🦋 - by [@fnky](https://github.com/fnky)
 * [NodeGUI Debian Builder](https://github.com/RinneganTech/nodegui-deb-builder) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2023-05-13 - Create .deb package distributable for NodeGUI Apps.
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
