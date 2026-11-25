@@ -140,7 +140,7 @@
             "open_issues": 428,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 50909,
+            "stars": 50933,
             "topics": [
               "android",
               "android-client",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:15:12.720Z",
+    "last_updated": "2026-11-25T15:58:26.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
@@ -699,10 +699,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2021-06-19T09:32:18Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "nodegui",
       "repo": "awesome-nodegui",
-      "stars": 94,
+      "stars": 95,
       "topics": [
         "awesome",
         "awesome-list",
