@@ -132,15 +132,15 @@
           "repo_info": {
             "archived": false,
             "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
-            "homepage": "https://spotube.cc/",
+            "homepage": "https://spotube.org/",
             "id": 338719962,
             "language": "Kotlin",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-21T07:03:27Z",
-            "open_issues": 428,
+            "last_commit": "2026-11-26T09:18:59Z",
+            "open_issues": 431,
             "owner": "team-spotube",
             "repo": "spotube",
-            "stars": 50933,
+            "stars": 50959,
             "topics": [
               "android",
               "android-client",
@@ -258,7 +258,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9235,
+                "stars": 9236,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -690,7 +690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:58:26.321Z",
+    "last_updated": "2026-11-26T15:40:51.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with NodeGui ",
